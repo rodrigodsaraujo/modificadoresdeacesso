@@ -15,9 +15,9 @@ public class AlunoTestar {
 		
 		System.out.println(aluno1.getnome());
 		
-		//aluno.idade = 10;
+		//aluno.idade = 135;
 		
-		aluno1.setidade(129);
+		aluno1.setidade(135);
 
 	}
 
